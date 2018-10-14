@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+h1 {
+  color: white;
+}
+
+a {
+  color: grey;
+}
+
+div.home {
+  background-image: url('../images/cinema.jpg');
+  background-size: cover;
+  height: 100%;
+}
+
+div.ironhack {
+  
+}
